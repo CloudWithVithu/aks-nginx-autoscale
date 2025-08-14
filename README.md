@@ -19,7 +19,8 @@ graph TD
     style B fill:#00B294,stroke:#333,stroke-width:1px
     style C fill:#FF8C00,stroke:#333,stroke-width:1px
     style D fill:#F2C811,stroke:#333,stroke-width:1px
-    style E fill:#8E44AD,stroke:#333,stroke-width:1px```
+    style E fill:#8E44AD,stroke:#333,stroke-width:1px
+```
 
 🛠 Key Skills Demonstrated
 
