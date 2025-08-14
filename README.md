@@ -10,10 +10,10 @@ It showcases my hands-on skills in **Azure, Kubernetes, Linux, DevOps, and conta
 
 ```mermaid
 graph TD
-    A[Azure Resource Group: aks-nginx-autoscale-rg] --> B[Azure Kubernetes Service (AKS) Cluster]
+    A[Azure Resource Group: aks-nginx-autoscale-rg] --> B[Azure Kubernetes Service AKS Cluster]
     B --> C[Nginx Deployment]
-    C --> D[Pods (1..3) auto-scaled by HPA]
-    B --> E[Azure Monitor / Container Insights]
+    C --> D[Pods 1 to 3 auto-scaled by HPA]
+    B --> E[Azure Monitor Container Insights]
 
     style A fill:#0078D4,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#00B294,stroke:#333,stroke-width:1px
